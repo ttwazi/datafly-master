@@ -1,23 +1,30 @@
 {
   "files": {
-    "main.css": "/datafly-master/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/datafly-master/static/js/main.c0a50cb4.chunk.js",
-    "main.js.map": "/datafly-master/static/js/main.c0a50cb4.chunk.js.map",
-    "runtime-main.js": "/datafly-master/static/js/runtime-main.443bf8cb.js",
-    "runtime-main.js.map": "/datafly-master/static/js/runtime-main.443bf8cb.js.map",
-    "static/js/2.4cd66c7c.chunk.js": "/datafly-master/static/js/2.4cd66c7c.chunk.js",
-    "static/js/2.4cd66c7c.chunk.js.map": "/datafly-master/static/js/2.4cd66c7c.chunk.js.map",
-    "static/js/3.d53d762b.chunk.js": "/datafly-master/static/js/3.d53d762b.chunk.js",
-    "static/js/3.d53d762b.chunk.js.map": "/datafly-master/static/js/3.d53d762b.chunk.js.map",
+    "main.css": "/datafly-master/static/css/main.69893ce2.chunk.css",
+    "main.js": "/datafly-master/static/js/main.3b8fe75a.chunk.js",
+    "main.js.map": "/datafly-master/static/js/main.3b8fe75a.chunk.js.map",
+    "runtime-main.js": "/datafly-master/static/js/runtime-main.47f37444.js",
+    "runtime-main.js.map": "/datafly-master/static/js/runtime-main.47f37444.js.map",
+    "static/js/2.33ca8712.chunk.js": "/datafly-master/static/js/2.33ca8712.chunk.js",
+    "static/js/2.33ca8712.chunk.js.map": "/datafly-master/static/js/2.33ca8712.chunk.js.map",
+    "static/js/3.7e8c5f94.chunk.js": "/datafly-master/static/js/3.7e8c5f94.chunk.js",
+    "static/js/3.7e8c5f94.chunk.js.map": "/datafly-master/static/js/3.7e8c5f94.chunk.js.map",
     "index.html": "/datafly-master/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/datafly-master/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.4cd66c7c.chunk.js.LICENSE.txt": "/datafly-master/static/js/2.4cd66c7c.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/datafly-master/static/media/logo.6ce24c58.svg"
+    "static/css/main.69893ce2.chunk.css.map": "/datafly-master/static/css/main.69893ce2.chunk.css.map",
+    "static/js/2.33ca8712.chunk.js.LICENSE.txt": "/datafly-master/static/js/2.33ca8712.chunk.js.LICENSE.txt",
+    "static/media/Tab1_covid.acab04ea.csv": "/datafly-master/static/media/Tab1_covid.acab04ea.csv",
+    "static/media/Tab1_employment.85bdd317.csv": "/datafly-master/static/media/Tab1_employment.85bdd317.csv",
+    "static/media/Tab1_entertainment.d34472be.csv": "/datafly-master/static/media/Tab1_entertainment.d34472be.csv",
+    "static/media/Tab1_housing_DOM.4cc0887a.csv": "/datafly-master/static/media/Tab1_housing_DOM.4cc0887a.csv",
+    "static/media/Tab1_housing_NL.0f5fc36c.csv": "/datafly-master/static/media/Tab1_housing_NL.0f5fc36c.csv",
+    "static/media/Tab1_transportation_add.4984fb42.csv": "/datafly-master/static/media/Tab1_transportation_add.4984fb42.csv",
+    "static/media/Tab1_transportation_gas.510ad1eb.csv": "/datafly-master/static/media/Tab1_transportation_gas.510ad1eb.csv",
+    "static/media/Tab3_robustness_scaled.903249a6.csv": "/datafly-master/static/media/Tab3_robustness_scaled.903249a6.csv"
   },
   "entrypoints": [
-    "static/js/runtime-main.443bf8cb.js",
-    "static/js/2.4cd66c7c.chunk.js",
-    "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.c0a50cb4.chunk.js"
+    "static/js/runtime-main.47f37444.js",
+    "static/js/2.33ca8712.chunk.js",
+    "static/css/main.69893ce2.chunk.css",
+    "static/js/main.3b8fe75a.chunk.js"
   ]
 }
