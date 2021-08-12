@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/datafly-master/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/datafly-master/static/js/main.c0a50cb4.chunk.js",
+    "main.js.map": "/datafly-master/static/js/main.c0a50cb4.chunk.js.map",
+    "runtime-main.js": "/datafly-master/static/js/runtime-main.443bf8cb.js",
+    "runtime-main.js.map": "/datafly-master/static/js/runtime-main.443bf8cb.js.map",
+    "static/js/2.4cd66c7c.chunk.js": "/datafly-master/static/js/2.4cd66c7c.chunk.js",
+    "static/js/2.4cd66c7c.chunk.js.map": "/datafly-master/static/js/2.4cd66c7c.chunk.js.map",
+    "static/js/3.d53d762b.chunk.js": "/datafly-master/static/js/3.d53d762b.chunk.js",
+    "static/js/3.d53d762b.chunk.js.map": "/datafly-master/static/js/3.d53d762b.chunk.js.map",
+    "index.html": "/datafly-master/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/datafly-master/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.4cd66c7c.chunk.js.LICENSE.txt": "/datafly-master/static/js/2.4cd66c7c.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/datafly-master/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.443bf8cb.js",
+    "static/js/2.4cd66c7c.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.c0a50cb4.chunk.js"
+  ]
+}
